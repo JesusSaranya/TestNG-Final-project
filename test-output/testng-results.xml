@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19638" started-at="2022-12-04T23:36:31Z" finished-at="2022-12-04T23:36:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19638" started-at="2022-12-04T23:36:31Z" finished-at="2022-12-04T23:36:51Z">
+      <class name="test.AddCategoryTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddCategoryTest@667a738]" name="init" is-config="true" duration-ms="3910" started-at="2022-12-04T23:36:31Z" finished-at="2022-12-04T23:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validUsershouldAbleToAddCategory()[pri:1, instance:test.AddCategoryTest@667a738]" name="validUsershouldAbleToAddCategory" duration-ms="6236" started-at="2022-12-04T23:36:35Z" finished-at="2022-12-04T23:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUsershouldAbleToAddCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddCategoryTest@667a738]" name="tearDown" is-config="true" duration-ms="941" started-at="2022-12-04T23:36:41Z" finished-at="2022-12-04T23:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddCategoryTest@667a738]" name="init" is-config="true" duration-ms="2164" started-at="2022-12-04T23:36:42Z" finished-at="2022-12-04T23:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validUsershouldnotAbleToAddCategory()[pri:2, instance:test.AddCategoryTest@667a738]" name="validUsershouldnotAbleToAddCategory" duration-ms="1059" started-at="2022-12-04T23:36:44Z" finished-at="2022-12-04T23:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUsershouldnotAbleToAddCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddCategoryTest@667a738]" name="tearDown" is-config="true" duration-ms="886" started-at="2022-12-04T23:36:45Z" finished-at="2022-12-04T23:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddCategoryTest@667a738]" name="init" is-config="true" duration-ms="2235" started-at="2022-12-04T23:36:46Z" finished-at="2022-12-04T23:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateMpnthDropDown()[pri:3, instance:test.AddCategoryTest@667a738]" name="validateMpnthDropDown" duration-ms="1291" started-at="2022-12-04T23:36:48Z" finished-at="2022-12-04T23:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMpnthDropDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddCategoryTest@667a738]" name="tearDown" is-config="true" duration-ms="874" started-at="2022-12-04T23:36:50Z" finished-at="2022-12-04T23:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AddCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
